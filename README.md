@@ -1,5 +1,5 @@
 # Jeu-de-la-vie
-Jeu de la vie avec Tkinter\n
+Jeu de la vie avec Tkinter
 
 Reprend les règles du jeu de la vie de John Horton Conway,
 

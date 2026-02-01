@@ -7,7 +7,7 @@ Reprend les règles du jeu de la vie de John Horton Conway,
 Pour faire passer les générations une par une, utiliser le clic gauche.
 Pour utiliser le mode Autorun, utiliser la barre espace.
 Les dimensions de la fenêtre sont modifiable, à condition que le ratio reste de 1:1.
-Les dimentions de la matrice sont modifiables, à condition que le ration reste de 1:1.
+Les dimentions de la matrice sont modifiables, à condition que le ratio reste de 1:1.
 
 # Mode EDIT
 Pour activer le mode EDIT, utiliser le clic droit.

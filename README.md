@@ -1,16 +1,21 @@
-# Jeu-de-la-vie
-Jeu de la vie avec Tkinter
+#Game of Life
+Game of Life with Tkinter
 
-Reprend les règles du jeu de la vie de John Horton Conway,
+Recreates the rules of John Horton Conway’s Game of Life.
 
-# Fonctionnement
-Pour faire passer les générations une par une, utiliser le clic gauche.
-Pour utiliser le mode Autorun, utiliser la barre espace.
-Les dimensions de la fenêtre sont modifiable, à condition que le ratio reste de 1:1.
-Les dimentions de la matrice sont modifiables, à condition que le ratio reste de 1:1.
+#How it works
+To advance generations one by one, use left‑click.
+To enable Autorun mode, press the space bar.
+The window dimensions can be modified as long as the aspect ratio remains 1:1.
+The matrix dimensions can also be modified, provided the ratio stays 1:1.
 
-# Mode EDIT
-Pour activer le mode EDIT, utiliser le clic droit.
-Le mode EDIT sert à modifier en temps réel la matrice en ajoutant des cellules manuellement.
-Le mode EDIT peut être déclenché seulement si le mode Autorun n'est pas actif.
-Pour quitter le mode EDIT, utiliser le clic droit.
+#Implementation
+The implementation of this Game of Life is very simple and minimalistic.
+All matrix operations use Python’s built‑in features and require no third‑party modules.
+Only Tkinter is needed to display the grid.
+
+#EDIT Mode
+To activate EDIT mode, use right‑click.
+EDIT mode allows you to modify the matrix in real time by manually adding cells.
+EDIT mode can only be enabled if Autorun mode is not active.
+To exit EDIT mode, use right‑click again.

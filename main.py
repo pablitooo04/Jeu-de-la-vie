@@ -5,10 +5,6 @@ dico_couleurs = {
     1: "#000000",
 }
 
-
-
-
-
 auto_mode = False
 
 def boucle_auto():
@@ -25,7 +21,6 @@ root = Tk()
 root.geometry(f"{window_size}x{window_size}")
 root.resizable(False, False)
 root.title("Jeu de la vie")
-
 
 canvas = Canvas(width = window_size, height = window_size)
 
@@ -143,3 +138,4 @@ if __name__ == "__main__":
 
     root.mainloop()
     
+
